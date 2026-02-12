@@ -88,7 +88,7 @@ Vercel | Render | Git | GitHub | Thunder Client
 ## 📫 Let's Connect
 
 📧 Email: shubh4535@gmail.com  
-💼 LinkedIn: [Add LinkedIn Link]  
+💼 LinkedIn: http://www.linkedin.com/in/shubhamsingh11190  
 
 ---
 
