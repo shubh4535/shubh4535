@@ -23,7 +23,7 @@ I build scalable, real-world full-stack applications with clean architecture and
 
 ## 🚀 Featured Projects
 
-### 🛒 Swiggy Clone (Full Stack – Deployed)
+### 🛒 Swiggy-Style Restaurant Listing App (Full Stack – Deployed)
 - Restaurant listing using Swiggy API  
 - Authentication (JWT + bcrypt)  
 - MVC backend architecture  
@@ -32,8 +32,8 @@ I build scalable, real-world full-stack applications with clean architecture and
 - Frontend deployed on **Vercel**  
 - Backend deployed on **Render**
 
-🔗 Frontend: [Add Link]  
-🔗 Backend: [Add Link]
+🔗 Frontend: [https://your-frontend-link.vercel.app]
+🔗 Backend: [https://swiggy-backend-sapl.onrender.com]
 
 ---
 
@@ -45,8 +45,8 @@ I build scalable, real-world full-stack applications with clean architecture and
 - JWT-based authentication  
 - Full MVC backend structure  
 
-🔗 Frontend Repo: [Add Link]  
-🔗 Backend Repo: [Add Link]
+🔗 Frontend Repo: https://github.com/shubh4535/shoppy-globe-app.git 
+🔗 Backend Repo: https://github.com/shubh4535/shoppy-globe-backend.git
 
 ---
 
@@ -58,8 +58,8 @@ I build scalable, real-world full-stack applications with clean architecture and
 - LocalStorage for recent searches  
 - Loading & error state handling  
 
-🔗 Live Demo: [Add Link]  
-🔗 Repository: [Add Link]
+🔗 Live Demo: 
+🔗 Repository: https://github.com/shubh4535/weather-forecast-app.git
 
 ---
 
