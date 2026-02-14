@@ -32,8 +32,8 @@ I build scalable, real-world full-stack applications with clean architecture and
 - Frontend deployed on **Vercel**  
 - Backend deployed on **Render**
 
-🔗 Frontend: [https://your-frontend-link.vercel.app]
-🔗 Backend: [https://swiggy-backend-sapl.onrender.com]
+🔗 Frontend: https://your-frontend-link.vercel.app
+🔗 Backend: https://swiggy-backend-sapl.onrender.com
 
 ---
 
@@ -45,7 +45,7 @@ I build scalable, real-world full-stack applications with clean architecture and
 - JWT-based authentication  
 - Full MVC backend structure  
 
-🔗 Frontend Repo: https://github.com/shubh4535/shoppy-globe-app.git 
+🔗 Frontend Repo: https://shoppy-globe-app-five.vercel.app/ 
 🔗 Backend Repo: https://github.com/shubh4535/shoppy-globe-backend.git
 
 ---
