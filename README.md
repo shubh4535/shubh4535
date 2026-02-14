@@ -46,7 +46,7 @@ I build scalable, real-world full-stack applications with clean architecture and
 - Full MVC backend structure  
 
 🔗 Frontend Repo: https://shoppy-globe-app-five.vercel.app/ 
-🔗 Backend Repo: https://github.com/shubh4535/shoppy-globe-backend.git
+🔗 Backend Repo: https://github.com/shubh4535/shoppy-globe-backend.git](https://shoppy-globe-backend-l65x.onrender.com/
 
 ---
 
