@@ -32,7 +32,7 @@ I build scalable, real-world full-stack applications with clean architecture and
 - Frontend deployed on **Vercel**  
 - Backend deployed on **Render**
 
-🔗 Frontend: https://your-frontend-link.vercel.app
+🔗 Frontend: https://swiggy-frontend-theta.vercel.app/
 🔗 Backend: https://swiggy-backend-sapl.onrender.com
 
 ---
